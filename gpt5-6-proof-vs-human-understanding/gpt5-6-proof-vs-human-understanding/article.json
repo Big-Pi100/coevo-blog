@@ -1,0 +1,44 @@
+{
+  "slug": "gpt5-6-proof-vs-human-understanding",
+  "title": "GPT-5.6一小时证出50年数学难题，人类还需要学数学吗？",
+  "description": "GPT-5.6 Sol Ultra用64个Agent,275美元成本,一小时证明了困扰数学家50年的循环双覆盖猜想。如果AI能证明人类证明不了的东西,学数学还有意义吗？答案藏在一组认知科学研究里。",
+  "keywords": "GPT-5.6,循环双覆盖猜想,AI证明,数学学习,解释深度错觉,元认知,FSRS,CoEvo,刻意进化",
+  "date": "2026-07-19",
+  "tags_html": "<span><span class=\"chip chip-red\">热点解读</span><span class=\"chip chip-blue\">认知科学</span></span><span class=\"chip chip-red\">热点解读</span><span class=\"chip chip-blue\">认知科学</span><span class=\"chip chip-red\">热点解读</span><span class=\"chip chip-blue\">认知科学</span><span class=\"chip chip-red\">热点解读</span><span class=\"chip chip-blue\">认知科学</span>",
+  "body_html": "<p>7月11日，OpenAI研究员Ethan Knight发了一条推文：</p>\n<blockquote>\n\"昨天刚向所有用户开放GPT-5.6 Sol Ultra。今天分享一个消息：它在不到一小时内，用64个子智能体，独立完成了困扰数学界50年的循环双覆盖猜想（Cycle Double Cover Conjecture）的完整证明。完整Prompt和证明PDF已公开。\"\n</blockquote>\n<p>简单来说：你花275美元买算力，它用你吃一顿饭的时间，做出了人类数学家半个世纪没做出来的事。</p>\n<p>消息炸了。Hacker News、知乎、微博、掘金全在刷屏。知乎上这条问题热度冲到153万，但真正让人焦虑的不是AI证出了什么——而是那个问题本身：<strong>如果AI连数学都能搞定，我们学数学还有什么用？</strong></p>\n<div class=\"chart-wrap\">\n<svg viewbox=\"0 0 680 200\" xmlns=\"http://www.w3.org/2000/svg\">\n<defs><lineargradient id=\"bar1\" x1=\"0\" x2=\"1\" y1=\"0\" y2=\"0\"><stop offset=\"0%\" stop-color=\"#6C63FF\"></stop><stop offset=\"100%\" stop-color=\"#4834d4\"></stop></lineargradient></defs>\n<rect fill=\"url(#bar1)\" height=\"40\" rx=\"6\" width=\"80\" x=\"40\" y=\"20\"></rect>\n<text fill=\"#fff\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" x=\"80\" y=\"45\">人类</text>\n<text fill=\"#888099\" font-size=\"12\" text-anchor=\"middle\" x=\"80\" y=\"82\">50年</text>\n<rect fill=\"#ff6b5b\" height=\"40\" rx=\"6\" width=\"200\" x=\"160\" y=\"20\"></rect>\n<text fill=\"#fff\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" x=\"260\" y=\"45\">GPT-5.6 Sol Ultra</text>\n<text fill=\"#888099\" font-size=\"12\" text-anchor=\"middle\" x=\"260\" y=\"82\">&lt;1小时 · $275–485</text>\n<text fill=\"#333\" font-size=\"14\" text-anchor=\"middle\" x=\"440\" y=\"45\">64个子Agent并行 + 对抗验证</text>\n<line stroke=\"#999\" stroke-width=\"1\" x1=\"400\" x2=\"435\" y1=\"40\" y2=\"40\"></line>\n</svg>\n<figcaption>人类 vs AI：解同一道题的时间与成本</figcaption>\n</div>\n<p>你可能不搞数学，也不太关心图论猜想是什么。但你多半有过这种经历：</p>\n<p>上学时解一道题，花了一整晚终于算出了正确答案，第二天老师看了一眼说\"过程不对，重做\"。或者更常见的——考试的时候觉得\"这题我肯定做对了\"，结果发下卷子发现错的离谱。</p>\n<p>这种感觉很微妙：你明明觉得自己懂了，但一被追问就露馅。不是没努力，而是大脑给了你一个假信号——<strong>\"懂了\"的感觉和真的懂了，是两码事</strong>。</p>\n<p>现在问题来了：GPT-5.6能在一个小时内写出数学家50年没写出的证明，它真的\"懂\"数学了吗？</p>\n<p>答案比你想的要复杂得多。而搞清楚这个答案，比你想象的要重要得多。</p>\n<h2>GPT-5.6交出的证明，和人类学数学有什么关系？</h2>\n<p>先说GPT-5.6做了什么。它不是靠一个大脑硬想，而是派出了64个子Agent各自走不同的路。</p>\n<p>好比64个研究生各拿一块黑板，同时推导，互相审核，有\"杠精Agent\"专门负责挑刺。最后，用一条精妙的思路绕开了\"找圈\"这个老大难——它不是直接去找环，而是给图的每条边贴\"标签\"，让被贴上同一个标签的边自动串成环。这一步把50年的难题转化成了一个线性代数问题，用对偶空间和奇偶性证明一定有解。</p>\n<p>曼彻斯特大学的数学家Thomas Bloom看了之后说：证明脉络相当简洁，如果当年有数学家想到这个路径，或许80年代就已经能完成。言下之意——AI没有提出革命性的新思想，它只是用超人的耐心在所有可能的岔路上都试了一遍。</p>\n<p>这里才是关键。来看一组研究数据：</p>\n<div class=\"grid-2\">\n<div class=\"data-box\">\n<div class=\"big\">⬇️ 44.4%</div>\n<div class=\"label\">Xing &amp; Teng (2026)发现，只有44.4%的学生属于\"高投入型\"——能在GenAI环境中主动批判地使用AI。另有19.2%属于\"最低投入型\"。</div>\n</div>\n<div class=\"data-box\">\n<div class=\"big\">⬇️ 68%→52%</div>\n<div class=\"label\">Weigelt (2026)眼动实验：AI训练确实改变了人的认知策略，但元认知盲点不可消除——你以为自己准确率68%，实际只有52%。</div>\n</div>\n</div>\n<p>这两组数据告诉我们什么？</p>\n<p><strong>第一</strong>，跟AI互动的效果，不是看谁花的时间多，而是看谁更会追问、更敢质疑。名校生用AI学得好的原因，不是脑子好，而是他们更倾向于主动批判互动（Yi et al., 2026，318人实验）。</p>\n<p><strong>第二</strong>，人对自己的认知能力有系统性高估——不管你用不用AI，你都可能\"以为自己懂了\"。</p>\n<p>这就是GPT-5.6事件和每个人学习的关系：<strong>AI输出答案的能力越强，我们\"以为自己懂了\"的幻觉就越危险</strong>。</p>\n<h2>为什么AI能证出来的东西，你不一定学得会？</h2>\n<p>得拆开两个东西：<strong>\"输出\"和\"理解\"</strong>。</p>\n<p>数学家Sriraman（2026）在研究中提出了一个五级认知模型：AI把\"输出\"和\"理解\"彻底解耦了。它能写出一个正确的证明，但不需要经历人类数学家那种\"想了三个月想不通→突然在洗澡时灵光一现→反复推敲半年\"的过程。这背后没有困惑、灵感、挫折感，也没有\"我到底懂了没\"的自我怀疑。</p>\n<p>而人类的问题恰恰在于：<strong>我们太容易在\"输出\"的错觉中跳过\"理解\"</strong>。</p>\n<p>2002年，Rozenblit和Keil做了一个经典实验——他们管这叫\"解释深度错觉\"。让你评价一下自己对拉链工作原理的理解程度，大部分人说\"七八分吧\"。然后请你详细解释一遍拉链是怎么咬合的，大多数人说到一半就卡住了。但妙的是，在被要求解释之前，你真心觉得自己懂。</p>\n<p>Koriat（1997）的研究进一步解释了原因：人判断\"自己懂没懂\"的依据，不是记忆的真实状态，而是各种外围线索——\"这个话题我听过\"\"这本书我看过\"\"这个公式我见过\"。这些线索跟实际掌握的深度之间，相关性很弱。</p>\n<p>所以你看，GPT-5.6证明了什么反而没那么重要。重要的是它戳破了一个幻觉：<strong>在这个答案唾手可得的时代，\"得到答案\"和\"真正理解\"之间的鸿沟，比以前任何时候都大</strong>。</p>\n<div class=\"chart-wrap\">\n<svg viewbox=\"0 0 680 180\" xmlns=\"http://www.w3.org/2000/svg\">\n<defs>\n<lineargradient id=\"g1\" x1=\"0\" x2=\"0\" y1=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#6C63FF\"></stop><stop offset=\"100%\" stop-color=\"#4834d4\"></stop></lineargradient>\n</defs>\n<text fill=\"#1a1a2e\" font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\" x=\"340\" y=\"25\">\"输出\"与\"理解\"的解耦</text>\n<rect fill=\"#6C63FF\" height=\"50\" opacity=\"0.15\" rx=\"8\" width=\"240\" x=\"60\" y=\"45\"></rect>\n<text fill=\"#333\" font-size=\"14\" text-anchor=\"middle\" x=\"180\" y=\"75\">GPT-5.6：能输出证明</text>\n<text fill=\"#888099\" font-size=\"12\" text-anchor=\"middle\" x=\"180\" y=\"135\">等价于...</text>\n<rect fill=\"#ff6b5b\" height=\"50\" opacity=\"0.15\" rx=\"8\" width=\"240\" x=\"380\" y=\"45\"></rect>\n<text fill=\"#333\" font-size=\"14\" text-anchor=\"middle\" x=\"500\" y=\"75\">人类：以为自己懂了</text>\n<text fill=\"#888099\" font-size=\"11\" text-anchor=\"middle\" x=\"180\" y=\"155\">↓ 但不理解数学</text>\n<text fill=\"#888099\" font-size=\"11\" text-anchor=\"middle\" x=\"500\" y=\"155\">↓ 实际也说不清（Rozenblit 2002）</text>\n<text fill=\"#ff6b5b\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\" x=\"340\" y=\"100\">≠ 理解</text>\n<line stroke=\"#ff6b5b\" stroke-dasharray=\"6,4\" stroke-width=\"2\" x1=\"300\" x2=\"375\" y1=\"70\" y2=\"70\"></line>\n</svg>\n<figcaption>GPT-5.6能输出证明 ≠ 理解数学；人类感觉懂了 ≠ 真的懂了</figcaption>\n</div>\n<h2>那怎么办？从\"感觉懂了\"到\"真的懂了\"差一步</h2>\n<p>CoEvo的出发点很简单：<strong>在这个AI什么都能回答的时代，人的优势不在于\"算得快\"或\"记得多\"，而在于\"真的理解\"</strong>。</p>\n<p>但\"真的理解\"不能靠自我感觉来判断——上面说了，自我感觉不可靠。你的大脑会骗你。Weigelt (2026)的实验中，受训者以为自己判断准确率达到68%，实际只有52%。差出来的16个百分点，就是你大脑给你的幻觉。</p>\n<p>CoEvo做的核心事情就是把这16个百分点找回来。怎么找？<strong>客观验证</strong>。</p>\n<p>你学了一个概念之后，系统不会问\"你感觉懂了吗\"，而是直接让你用。可能是让你用自己的话解释一遍（费曼式检测），可能是给你一个边缘案例看看能不能套用，也可能是在你复习时用间隔调度算法（FSRS-5）在最容易遗忘的时刻精准弹出检测。</p>\n<p>你答对了，系统才确认你真的懂了。答不对，它知道你在哪个环节卡住了——而不是让你浑水摸鱼地翻到下一页。</p>\n<p>这背后绑了一串研究：Samtani et al. (2026)发现自我解释提示的效果远超直接给AI答案（n=306）；Xu et al. (2026)的35项研究元分析显示AI支持SRL的整体效应量达到g=0.507；Zhao et al. (2025)已经证明了LLM+间隔重复可以超越传统FSRS的调度效果。</p>\n<p>一句话：<strong>在这个GPT-5.6能一小时证出50年难题的时代，学什么不如学\"怎么真正理解\"</strong>。</p>\n<h2>给你三条能直接用上的原则</h2>\n<p><strong>第一条：别让AI替你思考，让它逼你思考。</strong></p>\n<p>Yi et al. (2026)的318人实验已经证明了：同样用AI，主动批判互动的人效果远好于被动接受的人。别问AI\"答案是什么\"，问它\"我错在哪\"。让它质疑你的推理，而不是替你推理。</p>\n<p><strong>第二条：输出不等于理解，验证才是。</strong></p>\n<p>你觉得自己学会了？先别信。试着把刚学的东西讲给一个完全不懂的人听，看看能不能讲清楚。如果讲到一半发现\"咦这里我好像也没懂\"——恭喜，你发现了自己的盲区。这就是解释深度错觉的正面应用：它帮你在自己骗自己之前检查一遍。</p>\n<p><strong>第三条：利用间隔，别靠突击。</strong></p>\n<p>Dunlosky et al. (2013)的评价至今没被推翻：检索练习+间隔重复是所有学习技巧里最高效的。不是因为它让你\"记得久\"，而是因为它不给你机会产生\"我懂了\"的错觉——在你快要忘掉的时候反问你一遍，你还答得出来，那才是真的懂了。</p>\n<div style=\"margin:32px 0;text-align:center;padding:24px;background:linear-gradient(135deg,#faf6f3,#fff8f5);border-radius:12px;border:1px solid #f0e8e4;\">\n<p style=\"font-size:20px;font-weight:600;color:#1a1a2e;margin:0 0 12px\">在这个什么都能被AI回答的时代，<br/>真正的稀缺品不是答案，是理解。</p>\n<p style=\"font-size:14px;color:#666\">学会\"真的学会\"，就是你能做的最好的进化。</p>\n</div>",
+  "content_css": ".content { background:#fff;border-radius:12px;padding:28px;box-shadow:0 1px 3px rgba(0,0,0,.08) }\n.content { background:#fff;border-radius:12px;padding:28px;box-shadow:0 1px 3px rgba(0,0,0,.08) }",
+  "ld_article": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "GPT-5.6一小时证出50年数学难题，人类还需要学数学吗？",
+    "description": "GPT-5.6用64个Agent277美元成本一小时证明50年数学猜想。如果AI能证明人类证明不了的数学，我们学数学的价值在哪？认知科学给出了出乎意料的答案。",
+    "datePublished": "2026-07-19",
+    "author": {
+      "@type": "Organization",
+      "name": "CoEvo 刻意进化学习"
+    }
+  },
+  "ld_breadcrumb": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "首页",
+        "item": "https://www.keyievolution.fun/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "博客",
+        "item": "https://www.keyievolution.fun/blog/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "GPT-5.6证出数学猜想，人类还要学数学吗？"
+      }
+    ]
+  }
+}
