@@ -1,0 +1,48 @@
+{
+  "slug": "fsrs-vs-ebbinghaus",
+  "title": "FSRS 记忆算法 vs 艾宾浩斯遗忘曲线：哪个更科学？",
+  "description": "FSRS vs 艾宾浩斯遗忘曲线对比——FSRS 是新一代间隔重复算法，数据驱动、个性化适配，比传统方法效率高 2-3 倍。",
+  "keywords": "FSRS记忆算法,间隔重复,艾宾浩斯遗忘曲线,科学复习方法,记忆算法对比",
+  "date": "2026-07-11",
+  "tags_html": "<span>FSRS</span><span>记忆算法</span><span>间隔重复</span><span>艾宾浩斯</span><span>科学复习</span><span>学习方法</span>",
+  "body_html": "<div class=\"meta\">2026-07-11 · CoEvo 团队 · <span>FSRS</span> · <span>记忆算法</span> · <span>科学复习</span></div>\n<div class=\"content\">\n<blockquote>1900 年之后，人类对记忆机制的理解提升了几个数量级——但大多数\"高效复习法\"仍然停留在 1885 年的艾宾浩斯。FSRS 是目前最先进的间隔重复算法，在 Anki 生态中经过数亿次复习验证，比传统方法效率高出 2-3 倍。</blockquote>\n<h2>一、艾宾浩斯做了什么？</h2>\n<p>1885 年，德国心理学家赫尔曼·艾宾浩斯用自己做实验——背诵了数千个无意义音节，记录遗忘速度。这就是著名的<strong>艾宾浩斯遗忘曲线</strong>。</p>\n<table>\n<tr><th>时间</th><th>遗忘比例</th></tr>\n<tr><td>20 分钟后</td><td>42%</td></tr>\n<tr><td>1 小时后</td><td>56%</td></tr>\n<tr><td>1 天后</td><td>74%</td></tr>\n<tr><td>1 周后</td><td>77%</td></tr>\n<tr><td>1 个月后</td><td>79%</td></tr>\n</table>\n<p>它的核心价值：遗忘是有规律的，在遗忘之前复习可以延长记忆保持时间。但艾宾浩斯有 <strong>三个严重局限</strong>：</p>\n<ol>\n<li><strong>实验材料是无意义音节：</strong>真实学习中的数学公式、英语单词遗忘模式完全不同。</li>\n<li><strong>被试只有一个人：</strong>他的曲线不能代表所有人。</li>\n<li><strong>没有考虑个体差异：</strong>不同知识点的遗忘速度可能相差数倍。</li>\n</ol>\n<h2>二、FSRS：新一代间隔重复算法</h2>\n<p>FSRS 不是靠理论推导，而是通过分析 <strong>数亿次真实复习数据</strong> 来构建预测模型。它为<strong>每一个知识点建立独立的记忆模型</strong>，追踪三个关键变量：</p>\n<h3>三个核心变量</h3>\n<p><strong>稳定性（Stability）：</strong>这个知识点能记住多久。每次成功复习提升，每次遗忘下降。</p>\n<p><strong>难度（Difficulty）：</strong>这个知识点本身有多难。FSRS 根据遗忘频率自动评估。</p>\n<p><strong>可提取性（Retrievability）：</strong>在当前时刻，你能回忆起来的概率。</p>\n<h2>三、FSRS vs 艾宾浩斯 核心差异</h2>\n<table>\n<tr><th>维度</th><th>艾宾浩斯遗忘曲线</th><th>FSRS 算法</th></tr>\n<tr><td>数据基础</td><td>1 个人，无意义音节</td><td>数亿次真实复习数据</td></tr>\n<tr><td>个体适应性</td><td>所有人一样</td><td>为每个用户单独建模</td></tr>\n<tr><td>知识区分</td><td>所有内容一视同仁</td><td>每个知识点独立追踪</td></tr>\n<tr><td>复习间隔</td><td>固定间隔</td><td>动态调整，基于记忆状态</td></tr>\n<tr><td>难度感知</td><td>无</td><td>根据遗忘频率自动评估</td></tr>\n<tr><td>效率提升</td><td>基线</td><td>比传统方法快 2-3 倍</td></tr>\n</table>\n<h2>四、FSRS 的实际效果</h2>\n<p>FSRS 在 Anki 生态中经过数亿次复习验证，预测准确率达 <strong>90% 以上</strong>，复习量减少 <strong>30-40%</strong>，记忆保持率不变。</p>\n<table>\n<tr><th>方法</th><th>每天投入</th><th>一个月后记住</th><th>一年后记住</th></tr>\n<tr><td>不复习</td><td>0 分钟</td><td>~20%</td><td>~5%</td></tr>\n<tr><td>考前突击</td><td>2 小时/周</td><td>~40%</td><td>~10%</td></tr>\n<tr><td>艾宾浩斯式间隔</td><td>15 分钟/天</td><td>~70%</td><td>~40%</td></tr>\n<tr><td><strong>FSRS 优化</strong></td><td><strong>5-10 分钟/天</strong></td><td><strong>~90%</strong></td><td><strong>~75%</strong></td></tr>\n</table>\n<h2>五、如何在 CoEvo 中使用 FSRS</h2>\n<p>CoEvo 将 FSRS 深度整合到 AI 教学流程中：</p>\n<ol>\n<li><strong>AI 对话自动提取概念</strong>——AI 判断什么值得记</li>\n<li><strong>FSRS 自动排期复习</strong>——每次复习后自动更新记忆模型</li>\n<li><strong>客观验证替代主观判断</strong>——AI 出题测试，三题全对才算通过</li>\n</ol>\n<h2>六、结论</h2>\n<p>艾宾浩斯遗忘曲线是一座里程碑，但 140 年后我们有更好的选择。<strong>FSRS 不是对艾宾浩斯的否定，而是对它的超越。</strong>用同样的核心洞察（间隔重复），但用现代数据科学方法将效率提升数倍。</p>\n<p>如果你还在用\"每 1 天、2 天、4 天、7 天\"的方式安排复习——那是 1885 年的方法。2026 年，有更好的选择。</p>\n<hr/>\n<p style=\"font-size:13px;color:#999\"><strong>参考来源：</strong>Ebbinghaus (1885) · Wozniak (1990) SM-2 · LearningCues FSRS · Anki Official Docs</p>",
+  "content_css": ".content { background:#fff;border-radius:12px;padding:28px;box-shadow:0 1px 3px rgba(0,0,0,.08) }\n.content { background:#fff;border-radius:12px;padding:28px;box-shadow:0 1px 3px rgba(0,0,0,.08) }\n.content { background:#fff;border-radius:12px;padding:28px;box-shadow:0 1px 3px rgba(0,0,0,.08) }\n.content h2 { font-size:20px;margin:28px 0 12px;color:#1a1a2e;padding-bottom:6px;border-bottom:2px solid #6C63FF }\n.content h3 { font-size:17px;margin:20px 0 10px;color:#333 }\n.content p { margin-bottom:14px;font-size:15px;color:#444 }\n.content ul,.content ol { margin:10px 0 14px 20px }\n.content li { margin-bottom:6px;font-size:15px;color:#444 }\n.content strong { color:#1a1a2e }\n.content blockquote { border-left:3px solid #6C63FF;margin:14px 0;padding:10px 16px;background:#f0eeff;border-radius:0 8px 8px 0;color:#555;font-size:14px }\n.content table { width:100%;border-collapse:collapse;margin:14px 0;font-size:14px }\n.content th,.content td { border:1px solid #ddd;padding:8px 12px;text-align:left }\n.content th { background:#6C63FF;color:#fff;font-weight:600 }\n.content tr:nth-child(even) { background:#f8f7ff }\n.content hr { margin:24px 0;border:none;border-top:1px solid #eee }",
+  "ld_article": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "FSRS 记忆算法 vs 艾宾浩斯遗忘曲线：哪个更科学？",
+    "description": "FSRS vs 艾宾浩斯遗忘曲线对比——FSRS 是新一代间隔重复算法，数据驱动、个性化适配，比传统方法效率高 2-3 倍。",
+    "datePublished": "2026-07-11",
+    "author": {
+      "@type": "Organization",
+      "name": "CoEvo"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CoEvo AI特级教师"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.keyievolution.fun/blog/fsrs-vs-ebbinghaus/"
+    },
+    "keywords": "AI教育,科学复习,学习方法"
+  },
+  "ld_breadcrumb": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "博客首页",
+        "item": "https://www.keyievolution.fun/blog/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "FSRS 记忆算法 vs 艾宾浩斯遗忘曲线：哪个更科学？",
+        "item": "https://www.keyievolution.fun/blog/fsrs-vs-ebbinghaus/"
+      }
+    ]
+  }
+}
