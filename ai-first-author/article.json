@@ -1,0 +1,43 @@
+{
+  "slug": "ai-first-author",
+  "title": "AI第一作者的论文被下架了：孩子作业里的AI，到底该占多少",
+  "description": "华东师大“AI一作”实验5篇论文被知网下架，改版后AI不再署名，人类作者须披露AI参与比例。美国4354名高中生追踪显示：整体作弊率稳定在72%，但多数学生反对让AI写完一整篇作业。AI是工具还是代笔，边界在“谁为最后的结果负责”。",
+  "keywords": "AI一作,AI署名,AI写作边界,学术诚信,AI代写,人工智能写作,家庭作业,生成式AI,人机协作",
+  "date": "2026-08-08",
+  "tags_html": "<span>AI教育</span><span>学术诚信</span><span>AI写作</span><span>家庭教育</span>",
+  "body_html": "<p>724篇有效投稿，5篇“第一作者是AI”的先锋论文，登上一本CSSCI核心期刊的专刊——然后被知网下架。8月8日，长江日报发出评论：《知网下架AI论文，厘清边界刻不容缓》。这是华东师范大学去年发起的“AI一作”实验：把AI列为论文第一作者，试试学术界能不能接得住。实验结果很有信息量：期刊官网改版重发后，AI不再署名，人类作者必须在正文显著位置披露AI参与过程，甚至写明“最终定稿保留的AI原始文本约占全文10%”。一场实验，把一道几乎所有家庭都绕不开的题摆到了台面上：孩子的作业里，AI到底该占多少？</p><p>先别觉得这是大学老师才操心的事。你回忆一下：孩子写周记，先让AI列个提纲，算不算作弊？作文写到一半卡住了，让AI补一段，算不算代写？期末小论文，孩子用AI查资料、润色语句，最后自己把整篇读了一遍改了几处——这算孩子的作品，还是AI的作品？很多家长自己也说不清，于是要么一刀切“不许用”，要么睁一只眼闭一只眼。而这场“AI一作”实验恰恰告诉我们：说不清没关系，但“说不清”本身正在被制度化地解决——解决方式不是禁用AI，而是给AI参与度“称重”并公开。</p><h2>一、数据：孩子对AI的态度，比家长想象中清醒</h2><p>先说一个让很多家长意外的发现。2026年2月发表在《Educational Technology Research and Development》的研究，调查了美国6所学校的4354名高中生——这是ChatGPT发布一年半后的追踪数据。结果：学生的整体作弊率稳定在72.06%，与AI出现之前的历史基线基本持平。也就是说，AI并没有让“作弊的人”变多，它只是让一部分本来就会作弊的人换了个工具。</p><p>更有意思的是学生的边界感。研究者发现，更多学生开始用AI做“支持性任务”——让AI解释一个概念、帮忙头脑风暴想法；但同时，他们强烈支持AI用于概念理解和构思，却明确反对用AI完成一整份作业。换句话说：孩子心里其实有一杆秤——AI可以当“陪练”，但把整篇作业交给它，连学生自己都觉得越界了。</p><figure class=\"chart-wrap\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 680 320\" width=\"680\" height=\"320\">\n  <rect width=\"680\" height=\"320\" fill=\"#fff8f5\" rx=\"8\"/>\n  <text x=\"340\" y=\"36\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#1a1a2e\">“AI一作”实验：人类披露的AI文本占比</text>\n  <text x=\"340\" y=\"56\" text-anchor=\"middle\" font-size=\"11\" fill=\"#888099\">华东师大征集有效投稿724篇，5篇AI一作论文入选专刊</text>\n  <text x=\"44\" y=\"110\" text-anchor=\"end\" font-size=\"11\" fill=\"#888099\">占比</text>\n  <text x=\"44\" y=\"160\" text-anchor=\"end\" font-size=\"11\" fill=\"#888099\">50%</text>\n  <text x=\"44\" y=\"232\" text-anchor=\"end\" font-size=\"11\" fill=\"#888099\">10%</text>\n  <rect x=\"130\" y=\"122\" width=\"90\" height=\"108\" fill=\"#ff6b5b\" rx=\"4\"/>\n  <text x=\"175\" y=\"115\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#ff6b5b\">40%</text>\n  <rect x=\"295\" y=\"112\" width=\"90\" height=\"118\" fill=\"#6C63FF\" rx=\"4\"/>\n  <text x=\"340\" y=\"105\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#6C63FF\">约50%</text>\n  <rect x=\"460\" y=\"212\" width=\"90\" height=\"18\" fill=\"#4834d4\" rx=\"4\"/>\n  <text x=\"505\" y=\"205\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#4834d4\">约10%</text>\n  <text x=\"130\" y=\"278\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1a1a2e\">AI初稿占比</text>\n  <text x=\"295\" y=\"278\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1a1a2e\">定稿保留</text>\n  <text x=\"460\" y=\"278\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1a1a2e\">终稿保留</text>\n  <text x=\"340\" y=\"304\" text-anchor=\"middle\" font-size=\"10\" fill=\"#888099\">数据来源：华东师大“AI一作”实验论文披露声明（2026年第8期）</text>\n</svg>\n</figure><p>这场实验的披露细节，本身就是一份“参考答案”。有作者披露：AI首次生成的初始文本约占全文总字数的40%；另一位披露：定稿中直接保留的AI原始文本约50%；还有一位：最终稿件保留的AI原始内容约占10%。注意这个趋势——从初稿到终稿，AI的“存在感”被人类作者一轮轮打磨、修订、重写，一路降下来。这就是人机协作最健康的形态：AI负责初稿冲锋，人类负责批判、修改、负责。</p><h2>二、根因：为什么AI不能署名？署名是一份“责任契约”</h2><p>为什么知网宁可下架，也不让AI挂着作者名？答案藏在“作者”这个词的定义里。国际医学期刊编辑委员会（ICMJE）对作者身份有四个硬性标准：对研究有实质贡献、参与撰写或修订、最终批准发表、愿意为论文的一切内容负责。前两条AI勉强够得着，后两条它永远做不到——AI不会“批准”，更无法“负责”。署名本质上是“荣誉与责任”的捆绑：名字上了纸面，出了问题要撤稿、要受罚、要道歉，这些AI一件都做不了。把AI列为作者，等于让一个永远无法出庭的“人”签了份责任书。</p><p>那么问题来了：不署名，就能靠“查重”“AI检测”揪出代写吗？2026年7月发表在《Education Sciences》的一项实验给出了冷静的答案。研究者让斯科普里一所高校的28名教师评估AI生成的论文：82.14%的老师认为“能凭语言风格识别AI内容”，64.29%报告发现了语言不一致的痕迹——但最终只有53.57%的人正确判定论文“不是人写的”。识别经验差距悬殊：教授组有70.59%识别成功，助教组只有27.27%。换句话说，AI检测更像“猜”，而且猜中率取决于老师个人的经验，跟AI本身的写作水平关系不大。</p><figure class=\"chart-wrap\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 680 320\" width=\"680\" height=\"320\">\n  <rect width=\"680\" height=\"320\" fill=\"#fff8f5\" rx=\"8\"/>\n  <text x=\"340\" y=\"36\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#1a1a2e\">教师识别AI论文：感觉能识别，实际判不准</text>\n  <text x=\"340\" y=\"56\" text-anchor=\"middle\" font-size=\"11\" fill=\"#888099\">斯科普里某高校28名教师评估AI生成论文（Zdravkova, 2026）</text>\n  <text x=\"44\" y=\"104\" text-anchor=\"end\" font-size=\"11\" fill=\"#888099\">100%</text>\n  <text x=\"44\" y=\"154\" text-anchor=\"end\" font-size=\"11\" fill=\"#888099\">75%</text>\n  <text x=\"44\" y=\"204\" text-anchor=\"end\" font-size=\"11\" fill=\"#888099\">50%</text>\n  <text x=\"44\" y=\"254\" text-anchor=\"end\" font-size=\"11\" fill=\"#888099\">25%</text>\n  <rect x=\"90\" y=\"46\" width=\"90\" height=\"204\" fill=\"#ff6b5b\" rx=\"4\"/>\n  <text x=\"135\" y=\"39\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#ff6b5b\">82.1%</text>\n  <rect x=\"250\" y=\"88\" width=\"90\" height=\"162\" fill=\"#6C63FF\" rx=\"4\"/>\n  <text x=\"295\" y=\"81\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#6C63FF\">64.3%</text>\n  <rect x=\"410\" y=\"118\" width=\"90\" height=\"132\" fill=\"#4834d4\" rx=\"4\"/>\n  <text x=\"455\" y=\"111\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#4834d4\">53.6%</text>\n  <text x=\"135\" y=\"278\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1a1a2e\">凭风格识别</text>\n  <text x=\"295\" y=\"278\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1a1a2e\">发现语言痕迹</text>\n  <text x=\"455\" y=\"278\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1a1a2e\">判定非人类</text>\n  <text x=\"340\" y=\"304\" text-anchor=\"middle\" font-size=\"10\" fill=\"#888099\">教授组识别率70.6%，助教组仅27.3%</text>\n</svg>\n</figure><p>更麻烦的是“伪交互”的存在。Zdravkova在实验里还戳破了一个幻想：AI代写的人，完全可以伪造一段“我和AI的对话记录”来证明自己是亲自写的——反正对话记录也是AI编的。这也是为什么2026年8月最新研究提醒：AI文本检测器存在“基准率陷阱”，不能单独作为学术诚信的证据。检测、查重、对话记录，全都靠不住，那靠什么？靠制度——靠让“谁用了AI、用了多少、做了什么”这件事本身变得透明。</p><h2>三、方案：给AI参与度“称重”，而不是一刀切</h2><p>2026年6月发表在《International Journal of Surgery Open》的论文，给出了一个可以落地的四层框架：AI在学术写作中的角色，从“完全不使用”到“AI生成+人类修订”，到“人类主导+AI润色”，再到“AI作为共同作者”，每一层都对应不同的披露标准。核心原则只有一条：AI参与得越深，披露就要越详细，人类作者要说明的“责任边界”就越清楚。</p><p>把这条原则翻译成孩子写作业的语言，就是三句可执行的规则。第一句：概念可以问AI，作业必须自己想——AI解释一个定理、梳理一个背景，这算“陪练”，就像查字典；但让AI生成整段答案再誊抄，就是代写。第二句：用了AI就要说——在作业末尾写一句“本文用AI辅助查阅了XX资料”，听起来难为情，其实是把选择权交还给老师，也逼孩子交代清楚自己的贡献。第三句：改，比写更重要——从AI初稿到自己的终稿，中间的删改思考才是真正属于自己的部分；孩子改得越多，这篇作业就越“是他自己的”，就像那5篇论文披露的：AI占了40%的初稿，人类一路改到只留10%。</p><h2>四、行动指南：从今天就能做的5件小事</h2><ul><li><strong>和孩子聊一次“边界”</strong>：明确家里对AI使用的底线——查资料、问概念可以，整篇代写不行，先达成共识再谈技术。</li><li><strong>立一条“披露”规矩</strong>：只要用了AI，就在作业末尾写一行说明，把“用没用”变成“用了多少、用来干什么”的诚实交代。</li><li><strong>把“改”变成作业的一部分</strong>：孩子用AI生成初稿没关系，但要让他把改稿过程讲给你听——改了哪句、为什么改，讲得出来才是真懂了。</li><li><strong>警惕“完美作业”</strong>：一篇措辞老练、毫无孩子年龄痕迹的作文，不是孩子突然开窍了，更可能是AI代笔。与其逼问，不如让他重写一遍给你看。</li><li><strong>示范“AI是工具”</strong>：你自己用AI写周报、做PPT时，也当着孩子的面说一句“这里AI帮了忙，我改过了”——身教比说教管用。</li></ul><p>这场“AI一作”实验最后以AI撤下署名、人类诚实披露收场，不是AI的失败，恰恰是人类找到边界的过程。AI能写出漂亮的句子，但署名栏里那个名字，终究要有人为它负责。孩子迟早要和AI共事，我们教给他的不该是“不许用”，而是：用可以，但你要说得清，AI帮了你多少，你又为结果负责了多少。分清这两笔账，孩子才算真正学会和AI打交道。</p>",
+  "content_css": "",
+  "ld_article": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "AI第一作者的论文被下架了：孩子作业里的AI，到底该占多少",
+    "description": "华东师大“AI一作”实验5篇论文被知网下架，改版后AI不再署名，人类作者须披露AI参与比例。美国4354名高中生追踪显示：整体作弊率稳定在72%，但多数学生反对让AI写完一整篇作业。AI是工具还是代笔，边界在“谁为最后的结果负责”。",
+    "datePublished": "2026-08-08",
+    "author": {
+      "@type": "Organization",
+      "name": "CoEvo"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CoEvo"
+    }
+  },
+  "ld_breadcrumb": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "博客首页",
+        "item": "https://blog.keyievolution.fun/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "AI第一作者的论文被下架了：孩子作业里的AI，到底该占多少",
+        "item": "https://blog.keyievolution.fun/ai-first-author/"
+      }
+    ]
+  }
+}
